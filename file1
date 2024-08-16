@@ -1,9 +1,7 @@
 Hi
 Welcome to git class
 added new line
-<<<<<<< Updated upstream
 --this is to test stashing
 --this is additional line
-=======
 for testing stash
->>>>>>> Stashed changes
+
